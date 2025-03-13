@@ -104,7 +104,7 @@ const CollaborativeRoom = ({
                   width={24}
                   height={24}
                   onClick={() => setEditing(true)}
-                  className="pointer"
+                  className="cursor-pointer"
                 />
               )}
 
